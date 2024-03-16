@@ -22,4 +22,4 @@ The game board consists of "#" symbols representing walls and "*" symbols repres
 This game requires Python to be installed on your system.
 
 ## Credits
-This Snake game is created by [nicolasanhueza].
+This Snake game is created by nicolasanhueza.
